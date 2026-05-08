@@ -1,4 +1,6 @@
-fc54da8 (HEAD -> main) feat: Preguntas de tareas git respondida
+bd709a5 (HEAD -> main, origin/main, origin/HEAD) feat: Se agregó captura con la evidencia
+d4074ef feat: Se agregó historia de commits
+fc54da8 feat: Preguntas de tareas git respondida
 f97c6e5 feat: Agrego archivo de presentancion
-c9dc853 (origin/main, origin/HEAD) add online IDE url; add deadline
+c9dc853 add online IDE url; add deadline
 c158d99 Initial commit
